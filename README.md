@@ -4,7 +4,7 @@
 
 [View the bounty](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
 
-> The office printer only jams when the deadline is real, which is why IT calls it the most honest employee we have.
+> The office printer only jams when the deadline is real, which is why IT calls it our most honest employee.
 
 ## Run
 

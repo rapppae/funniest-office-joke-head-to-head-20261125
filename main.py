@@ -1,8 +1,8 @@
 """Entry for make.fun: The Funniest Office Joke, Judged Head to Head."""
 import os
 
-# Entry text: 114 characters (limit 200), 1 line(s), no trailing newline.
-ENTRY = 'The office printer only jams when the deadline is real, which is why IT calls it the most honest employee we have.'
+# Entry text: 106 characters (limit 200), 1 line(s), no trailing newline.
+ENTRY = 'The office printer only jams when the deadline is real, which is why IT calls it our most honest employee.'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")
